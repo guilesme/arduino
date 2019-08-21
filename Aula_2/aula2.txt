@@ -1,0 +1,12 @@
+Instalar o app fritzing
+
+app electrodoid
+app robo bt
+
+site tinkercad.com
+
+placa arduino tem tensao 5v
+
+LED perna maior é positivo, menor negativo
+Nao pode ligar no pino digital direto do arduino pois pode queimar o led e o microcontrolador do arduino
+RED LED standard usar resistor entre 220 e 330 ohm é ok
