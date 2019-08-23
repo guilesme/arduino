@@ -1,0 +1,14 @@
+Serial.begin - define a velocidade da porta serial
+Serial.print - escreve na porta serial
+Serial.println - escreve na porta serial, em seguida joga p/ a proxima linha
+
+int = numeros inteiros
+float = numeros inteiros e decimais
+
+Nomes de variaveis nao podem ter espaco, caracteres especiais, palavras reservadas.
+Usar técnica do camelo(quando utilizar 2 palavras, a segunda inicia com letra maiúscula) e clean code para nomes de variáveis 
+
+Estrutura do for:
+for (int i=0; i<10; i++){
+
+}
