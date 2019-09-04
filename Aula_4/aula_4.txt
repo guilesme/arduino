@@ -1,0 +1,23 @@
+chave push down
+
+Estruturas de controle
+
+Laços de repetição
+for
+
+Estruturas condicionais
+if (condição){
+	//condição verdadeira
+}
+
+
+if (condição){
+	//condição verdadeira
+} else{
+	//condição falsa
+}
+
+
+AND &&
+
+OR ||
