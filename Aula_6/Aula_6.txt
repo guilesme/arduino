@@ -1,0 +1,6 @@
+https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/
+
+#add bibliotecas
+Sketch -> incluir biblioteca -> gerenciar biblioteca
+
+Smart notebook
