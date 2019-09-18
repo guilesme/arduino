@@ -4,3 +4,5 @@ https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/
 Sketch -> incluir biblioteca -> gerenciar biblioteca
 
 Smart notebook
+
+char - guarda caracteres tabela ascii, usar aspas simples ' ' 
