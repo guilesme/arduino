@@ -1,0 +1,7 @@
+esp32 hc-06
+
+switch case - variavel int e char
+https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
+
+como config o modulo bluetooth
+https://github.com/professorjosedeassis/automacao-residencial-arduino
