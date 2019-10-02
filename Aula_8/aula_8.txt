@@ -1,0 +1,1 @@
+tx do arduino é rx do modulo e vice versa
